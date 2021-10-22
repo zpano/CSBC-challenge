@@ -7,7 +7,7 @@
 ### 赛题4
 触发```pikapika_SendFlag```事件可通关
 ### 赛题5
-盗走```DVPgame```合约中的所有DVT5代币可通关
+触发```DVPgame```合约中的selfdestruct可通关
 ### 赛题6
 ```UnstoppableLender```是一个提供闪电贷服务的平台，玩家如果能够让其无法正常提供闪电贷服务则可通关
 ### 赛题7
